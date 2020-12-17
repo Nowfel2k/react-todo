@@ -1,0 +1,19 @@
+body {
+  margin: 0 10vw !important;
+}
+
+h1 {
+  text-align: center !important;
+}
+
+.todo__input {
+  outline: none !important;
+  margin-right: 1vw;
+}
+
+.todo__item {
+  padding: initial 2vw;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+}
